@@ -41,4 +41,4 @@ Thomas High School student count has it as medium (1000-2000) student size in th
 According to the data charter schools ranked in the top 5 in Overall Passing scores. Schools that were classified as district schools ranked in the bottom 5 of Overall Passing scores.  
 
 ## Summary
-Using any election raw data formatted using Columns with "Ballot ID, County, Candidate headers and Row capturing each vote this script can be used to identify the "Total Votes", "Votes and Percentages" per county, the "Largest County Turnout", "Vote and Percentages" per candidate and "Winner", "Winner Vote Count",and "Winning Percentage." The election commission would only have to format each election raw data to utilize the script in the audit process or declaring the winning candidate. 
+Removing the missing data did lower the overall Thomas High School. As a charter school, and medium size school in the district removing 9th graders average did not cause the Thomas High School to rank lower than a district school. While 461 student seems like a lot it is less than 1% of the district total student count.  
